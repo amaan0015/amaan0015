@@ -1,48 +1,162 @@
-![logo](https://github.com/amaan0015/amaan015/blob/main/github-header-banner.png)
+![Profile Banner](https://github.com/amaan0015/amaan015/blob/main/github-header-banner.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Amaan Alam</h1>
 
-<h3 align="center">I'm a B.Tech IT student (3rd year) passionate about **Web Development, AI/ML and Open Source.</h3>
+<h3 align="center">Full-Stack Web Developer | Java & DSA | B.Tech IT '27</h3>
 
----
+<p align="center">
+  Building practical web applications and improving my problem-solving skills.
+</p>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amaan0015&label=Profile%20views&color=0e75b6&style=flat" alt="amaan0015" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@amaan_alam15" target="blank"><img src="https://img.shields.io/twitter/follow/@amaan_alam15?logo=twitter&style=for-the-badge" alt="@amaan_alam15" /></a> </p>
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **amaanalam015@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@amaan_alam15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@amaan_alam15" height="35" width="40" /></a>
-<a href="https://linkedin.com/in/amaanalam015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amaanalam015" height="35" width="40" /></a>
-<a href="https://instagram.com/amaan_alam15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amaan_alam15" height="35" width="40" /></a>
-<a href="https://www.leetcode.com/amaan_alam015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amaan_alam015" height="35" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/amaan0015">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/amaanalam015">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/amaan_alam015">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in Information Technology | Expected Graduation: 2027
+- 💻 Full-Stack Web Developer focused on building practical web applications.
+- ☕ Practicing Data Structures and Algorithms using Java.
+- 🚀 Building projects with React, Node.js, Express.js, and MongoDB.
+- 🗄️ Familiar with SQL and MySQL.
+- 🏆 Cleared Smart India Hackathon internal college rounds twice.
+- 🎯 Preparing for software developer placements and technical interviews.
 
 ---
 
+## 🛠️ Tech Stack
 
-<p><img width="48%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amaan0015&show_icons=true&locale=en&layout=compact" alt="amaan0015" /></p>
+### 💻 Programming Languages
 
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript" alt="Java and JavaScript"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amaan0015&show_icons=true&locale=en" alt="amaan0015" /></p>
+### 🎨 Frontend Development
 
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" alt="HTML, CSS, Tailwind CSS, React"/>
+</p>
 
-<p><img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amaan0015&" alt="amaan0015" /></p>
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB and MySQL"/>
+</p>
+
+- SQL
+- MySQL
+
+### 📊 Data Analytics
+
+- Advanced Excel
+- Python: Pandas and NumPy
+- Matplotlib
+- Power BI
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Git and GitHub"/>
+</p>
 
 ---
 
+## 🚀 Featured Projects
+
+### 🏠 StayEasyy — Property Rental Platform
+
+A full-stack web application designed to help tenants discover rental properties and connect with property owners.
+
+**Key Features**
+
+- 🔐 User authentication and protected routes.
+- 🏡 Property listings and search functionality.
+- 📩 Property enquiry submission.
+- 💬 Tenant-owner chat and read receipts.
+
+**Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB
+
+- 🔗 Repository: [Add your StayEasyy repository URL](https://github.com/amaan0015)
+- 🌐 Live Demo: Add your deployed website URL.
+
+### 🎓 Student Record Management System
+
+A backend application focused on managing student records through REST APIs and database operations.
+
+**Key Features**
+
+- ⚙️ REST API development.
+- 🗄️ Student record management using MongoDB.
+- 🔌 Backend routing and request handling.
+
+**Tech Stack:** Node.js, Express.js, MongoDB
+
+- 🔗 Repository: Add your project repository URL.
+
+---
+
+## 🧠 Data Structures & Algorithms
+
+- 💻 Language: Java
+- 🧩 Solved 150+ problems on LeetCode, GeeksforGeeks, and other coding platforms.
+- 📚 Practicing problem-solving and algorithmic thinking for technical interviews.
+
+<p>
+  <a href="https://leetcode.com/amaan_alam015">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+  </a>
+</p>
+
+---
+
+## 📜 Certifications & Achievements
+
+- 📜 **MERN Full Stack Development** — Coding Spoon
+- 📊 **Data Analytics** — MSME Technology Centre, Durg
+- 🏆 Cleared Smart India Hackathon internal college rounds twice.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amaan0015&show_icons=true&theme=tokyonight&hide_border=true" alt="Amaan's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaan0015&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in software development opportunities, collaborating with developers, and building useful products.
+
+- 📧 Email: [amaan.official015@gmail.com](mailto:amaan.official015@gmail.com)
+- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/amaanalam015)
+- 🐙 GitHub: [Explore my repositories](https://github.com/amaan0015)
+- 🧩 LeetCode: [View my profile](https://leetcode.com/amaan_alam015)
+
+---
+
+<p align="center">
+  <i>"Learn consistently. Build practically. Improve every day."</i>
+</p>
