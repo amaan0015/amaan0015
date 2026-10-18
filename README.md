@@ -1,4 +1,3 @@
-![Profile Banner](https://github.com/amaan0015/amaan015/blob/main/github-header-banner.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Amaan Alam</h1>
 
@@ -134,17 +133,6 @@ A backend application focused on managing student records through REST APIs and 
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amaan0015&show_icons=true&theme=tokyonight&hide_border=true" alt="Amaan's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaan0015&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
-
----
 
 ## 🤝 Let's Connect
 
